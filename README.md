@@ -4,10 +4,10 @@ Nama 	: Ahmad Firdaus<br />
 NRP 	: 05111740000188<br />
 Kelas	: PBKK - E<br />
 
-Deskripsi Aplikasi<br />
-Aplikasi ini bertujuan untuk melakukan pendataan bantuan selama masa Pandemi Covid-19.
+# Deskripsi Aplikasi<br />
+Aplikasi ini merupakan alat untuk pendataan bantauan selama masa pandemi Covid-19.
 
-Pada aplikasi ini memiliki beberapa fitur yaitu:
+Aplikasi ini mempunyai lima fitur yaitu:
 
 # A. Menambah Transaksi
 Pada fitur ini kita dapat mencatat nama penyumbang dan waktu sumbangan di lakukan.
