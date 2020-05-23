@@ -1,8 +1,8 @@
 # FP-PBKK-05111740000147
 
-Nama 	: Ahmad Firdaus
-NRP 	: 05111740000188
-Kelas	: PBKK - E
+Nama 	: Ahmad Firdaus<br />
+NRP 	: 05111740000188<br />
+Kelas	: PBKK - E<br />
 
 Deskripsi Aplikasi<br />
 Aplikasi ini bertujuan untuk melakukan pendataan bantuan selama masa Pandemi Covid-19.
